@@ -1,0 +1,47 @@
+body {
+  background: rgb(10, 10, 56, 0.5) url("");
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+header {
+  background-color: rgb(10, 10, 56);
+  font-size: xx-large;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+nav {
+  background-color: rgb(10, 10, 56, 0.5);
+  color: rgb(255, 255, 255);
+  font-size: 32px;
+  text-align: center;
+}
+
+.container {
+  background-color: rgb(185, 220, 250);
+  min-height: 1000px;
+  min-width: 1000px;
+  margin: auto;
+}
+
+.col-right {
+  background-color: rgb(10, 10, 56, 0.5);
+  height: 1000px;
+  width: 660px;
+  font-size: 20px;
+}
+
+.col-left {
+  background-color: aliceblue;
+  height: 1000px;
+  width: 660px;
+  font-size: 20px;
+}
+
+footer {
+  background-color: rgb(10, 10, 56);
+  color: rgb(255, 255, 255);
+  font-size: 32px;
+  text-align: center;
+}
